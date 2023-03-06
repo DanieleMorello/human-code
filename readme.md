@@ -30,7 +30,7 @@
   - ALTRIMENTI
     - continuo con le altre sezioni -->
 
-    # UMAN CODING
+# UMAN CODING
 
 ## Scansionare un documento su più fogli fronte-retro
 
